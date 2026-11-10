@@ -1,0 +1,5 @@
+R2D2 1 1
+C3PO 5 3
+Wall-E 2 7
+BB-8 8 8
+Marvin 0 4
